@@ -1,0 +1,10 @@
+{
+  "id": "etymology-multilingual",
+  "name": "Etymology Multilingual",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "Get the etymology of words in your notes, supporting multiple languages",
+  "author": "DuckTapeKiller",
+  "authorUrl": "https://github.com/DuckTapeKiller",
+  "isDesktopOnly": false
+}
