@@ -1,5 +1,7 @@
 # Obsidian Etymology Multilingual
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/ducktapekiller)
+
 This plugin allows you to look up the etymology of words in English, Spanish, and French directly within your Obsidian notes.
 
 It is a fork and extension of the [Etymology Lookup](https://github.com/clairefro/obsidian-plugin-etymology-lookup) plugin by **clairefro**, which originally supported only English. This version introduces multilingual support.
