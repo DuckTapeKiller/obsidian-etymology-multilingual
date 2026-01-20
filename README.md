@@ -1,5 +1,3 @@
-# Obsidian Etymology Multilingual
-
 ![Etymology Multilingual Art](https://github.com/user-attachments/assets/008aaa68-7574-475d-bf45-67277a94d044)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/ducktapekiller)
